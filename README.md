@@ -1,0 +1,3 @@
+# OpenMailer
+mailtoを利用したUnity用メーラー機能
+※IOSのみ、mailtoで改行コードがサポートされなくなったためMessageUIフレームワークのMFMailComposeViewControllerを利用
